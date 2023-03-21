@@ -1,0 +1,9 @@
+.usercard-container{    
+    height: 400px;
+    overflow-y: auto;
+}
+
+.usercard-box{
+    width: 450px;
+    height: 150px;    
+}
