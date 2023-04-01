@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> create, read, update, and delete (often referred to via the acronym CRUD) are the four basic operations of persistent storage.
     <br> 
 </p>
 
